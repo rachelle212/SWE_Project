@@ -7,8 +7,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.*;
-import java.util.*;
-import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -17,7 +15,7 @@ import model.Question;
 import static view.Constants.WINDOW_HEIGHT;
 import static view.Constants.WINDOW_WIDTH;
 
-public class View extends JFrame {
+public class View extends JFrame implements ActionListener {
     private Model model;
 
     private HomePanel homePanel = new HomePanel();
@@ -46,9 +44,14 @@ public class View extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
 
+        // Add this as ActionListener for all buttons
+        for (JButton b: homePanel.getButton()){
+            b.addActionListener(this);
+        }
+
     }
 
-    public class HomePanel extends JPanel implements ActionListener{
+    /*public class HomePanel extends JPanel implements ActionListener{
         private boolean isStartScreen;
         public HomePanel(){
             //Add buttons
@@ -74,7 +77,7 @@ public class View extends JFrame {
             }
         }
 
-    }
+    }*/
 
 
     public class BackgroundPanel extends JPanel implements ActionListener{
@@ -348,6 +351,61 @@ public class View extends JFrame {
         return button;
     }
 
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        switch (e.getActionCommand()) {
+            case Constants.START: // do nothing
+                setTitle("Name that Thing! -- Category Selection");
+                layered.removeAll();
+                layered.add(categoryPanel);
+                layered.add(backgroundPanel);
+                break;
+            case Constants.SETTINGS:
+                break;
+            case Constants.LEADERBOARD:
+                break;
+            case "GEEK OUT":
+                layered.removeAll();
+                layered.add(readyPanel);
+                layered.add(backgroundPanel);
+                break;
+            case "EARLY 2000s JAMS":
+                layered.removeAll();
+                layered.add(readyPanel);
+                layered.add(backgroundPanel);
+                break;
+            case "FOODIE":
+                layered.removeAll();
+                layered.add(readyPanel);
+                layered.add(backgroundPanel);
+                break;
+            case "RATCHET FACTS":
+                layered.removeAll();
+                layered.add(readyPanel);
+                layered.add(backgroundPanel);
+                break;
+            case "HOT GUY CINEMA":
+                layered.removeAll();
+                layered.add(readyPanel);
+                layered.add(backgroundPanel);
+                break;
+            case Constants.READY:
+                setTitle("Name that Thing! -- Question");
+                layered.removeAll();
+                layered.add(questionPanel);
+                layered.add(backgroundPanel);
+                questionPanel.countdown();
+                break;
+            case Constants.BACK:                       /*Not fully functional*/
+                setTitle("Name that Thing! -- Home");  /*Implement to return to the last visited panel*/
+                layered.removeAll();
+                layered.add(homePanel);
+                layered.add(backgroundPanel);
+            default:
+                break;
+        }
+        layered.repaint();
+    }
 
     public static void main(String[] args) {
         View v = new View();
