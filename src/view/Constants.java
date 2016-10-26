@@ -2,9 +2,7 @@ package view;
 import java.awt.*;
 import javax.swing.*;
 
-/**
- * Created by elizabethsengoba on 10/19/16.
- */
+
 public class Constants {
     //The size of the game play screen
     public static final int WINDOW_WIDTH = 700;

@@ -8,17 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-/**
- * Created by elizabethsengoba on 10/19/16.
- */
 public class Question {
-
-        /*public String[] getQuestion(){
-            //Read in the file from the text
-            String[] arr = {"Hello", "Quite", "Dog", "Y'all"};
-
-            return arr ;
-        }*/
 
         int num = 0;
         public Question() throws IOException {
@@ -29,14 +19,13 @@ public class Question {
             if (num > 11){
                 return num = 0;
             }
-            //System.out.println("what");
             return num + 1;
         }
-
+         /**
+          * Create a map that maps every question to its corresponding value
+          */
         public HashMap<String, String> getQuestion() throws IOException {
-        /**
-         * Create a map that maps every question to its corresponding value
-         */
+
             ArrayList<String> questions = new ArrayList<>();
             ArrayList<String> questionID = new ArrayList<>();
             HashMap<String, String> retMap = new HashMap<>();
@@ -48,11 +37,6 @@ public class Question {
             for (int i = 0; i < questions.size(); i++){
                 retMap.put(questionID.get(i), questions.get(i));
             }
-
-            /* This was a way to pick randomly a string from a list (NOW OLD CODE)
-            Random rand = new Random();
-            String ans = questions.get(rand.nextInt(questions.size() - 1));
-            */
 
             return retMap;
          }

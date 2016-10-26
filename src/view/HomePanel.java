@@ -1,6 +1,5 @@
 package view;
 
-import view.View;
 import javax.swing.*;
 import java.awt.*;
 
@@ -17,9 +16,11 @@ public class HomePanel extends MyPanel {
         setLayout(new GridLayout(6,1));  //set layout for the home panel
         setOpaque(false);
         setBounds(0,0, Constants.WINDOW_WIDTH, Constants.WINDOW_HEIGHT);
-        JLabel triviaTitle = new JLabel(" Name that Thing!");
+        JLabel triviaTitle = new JLabel("Name that Thing!", SwingConstants.CENTER);
         triviaTitle.setFont(Constants.HOME_FONT);
-        add(triviaTitle, BorderLayout.WEST);
+        add(triviaTitle);
+        JLabel emptySpace = new JLabel("");
+        add(emptySpace);
         add(createButton(Constants.START));
         add(createButton(Constants.SETTINGS));
         add(createButton(Constants.LEADERBOARD));
