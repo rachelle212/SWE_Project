@@ -1,5 +1,7 @@
 package view;
 
+import com.sun.tools.internal.jxc.ap.Const;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -16,11 +18,11 @@ public class CategoryPanel extends MyPanel {
         JLabel categoryTitle = new JLabel("Please select one category for game play.");
         categoryTitle.setFont(Constants.BUTTON_FONT);
         add(categoryTitle, BorderLayout.EAST);
-        add(createButton("GEEK OUT"));
-        add(createButton("EARLY 2000s JAMS"));
-        add(createButton("HOT GUY CINEMA"));
-        add(createButton("RATCHET FACTS"));
-        add(createButton("FOODIE"));
+        add(createButton(Constants.GEEKOUT));
+        add(createButton(Constants.EARLY2000JAMS));
+        add(createButton(Constants.SWECLASSFUNNYFACTS));
+        add(createButton(Constants.RATCHETFACTS));
+        add(createButton(Constants.FOODIE));
         add(createButton("BACK"));
 
     }

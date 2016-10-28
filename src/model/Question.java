@@ -21,9 +21,10 @@ public class Question {
             }
             return num + 1;
         }
-         /**
-          * Create a map that maps every question to its corresponding value
-          */
+
+    /**
+     * Create a map that maps every question to its corresponding value
+     */
         public HashMap<String, String> getQuestion() throws IOException {
 
             ArrayList<String> questions = new ArrayList<>();
@@ -52,8 +53,9 @@ public class Question {
         }
 
     /**
-     * This function reads from a file a list of questions from a specific category
-     * and stores them in a list.
+     * Read the files containing the questions. Each question is mapped (as a value) to
+     * a 3 digits questionID that is unique for the specific question. The ID ensures
+     * questions are mapped to their corresponding answers.
      */
          public void getListOfQuestions(ArrayList<String> questions, ArrayList<String> questionID, HashMap<String, ArrayList<String>> answers) throws IOException {
              ArrayList<String> temp = new ArrayList<>();
@@ -75,8 +77,8 @@ public class Question {
 
     /**
      * Read the file containing the answers
-     * These answers are mapped to a key value corresponding to the
-     * questionID
+     * These answers, stored in an ArrayList, are mapped to a questionID key to ensure
+     * the exact matching between questions and answers.
      */
 
          public void getListOfAnswers(HashMap<String, ArrayList<String>> ans) throws IOException {

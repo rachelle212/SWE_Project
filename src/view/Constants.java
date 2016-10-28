@@ -1,5 +1,6 @@
 package view;
 import java.awt.*;
+import java.awt.datatransfer.StringSelection;
 import javax.swing.*;
 
 
@@ -28,5 +29,12 @@ public class Constants {
 
     // Length of the counter
     public static final String COUNTMAX = "10";
+
+    // Category names
+    public static final String GEEKOUT = "GEEK OUT";
+    public static final String FOODIE = "FOODIE";
+    public static final String EARLY2000JAMS = "EARLY 2000s JAMS";
+    public static final String RATCHETFACTS = "RATCHET FACTS";
+    public static final String SWECLASSFUNNYFACTS = "SWE CLASS FUNNY FACTS";
 
 }
