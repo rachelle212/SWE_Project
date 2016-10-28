@@ -94,27 +94,27 @@ public class View extends JFrame implements ActionListener {
                 break;
             case Constants.LEADERBOARD:
                 break;
-            case "GEEK OUT":
+            case Constants.GEEKOUT:
                 layered.removeAll();
                 layered.add(readyPanel);
                 layered.add(backgroundPanel);
                 break;
-            case "EARLY 2000s JAMS":
+            case Constants.EARLY2000JAMS:
                 layered.removeAll();
                 layered.add(readyPanel);
                 layered.add(backgroundPanel);
                 break;
-            case "FOODIE":
+            case Constants.FOODIE:
                 layered.removeAll();
                 layered.add(readyPanel);
                 layered.add(backgroundPanel);
                 break;
-            case "RATCHET FACTS":
+            case Constants.RATCHETFACTS:
                 layered.removeAll();
                 layered.add(readyPanel);
                 layered.add(backgroundPanel);
                 break;
-            case "HOT GUY CINEMA":
+            case Constants.SWECLASSFUNNYFACTS:
                 layered.removeAll();
                 layered.add(readyPanel);
                 layered.add(backgroundPanel);
