@@ -1,37 +1,57 @@
 401
-A.Shakira
-B.Beyoncé
-C.Madonna
-D.Rihanna
-A.Shakira
+A. Shakira
+B. Beyoncé
+C. Madonna
+D. Rihanna
+A. Shakira
 402
-A.Destiny's Child
-B.TLC
-C.Girls Aloud
-D.Pussycat Dolls
-D.Pussycat Dolls
+A. Destiny's Child
+B. TLC
+C. Girls Aloud
+D. Pussycat Dolls
+D. Pussycat Dolls
 403
-A.Carrey Underwood
-B.Pink
-C.Avril Lavigne
-D.Kelly Clarkson
-C.Avril Lavigne
+A. Carrey Underwood
+B. Pink
+C. Avril Lavigne
+D. Kelly Clarkson
+C. Avril Lavigne
 404
-A.Snoop Dogg
-B.Eminem
-C.50 Cent
-D.Dr. Dre
-B.Eminem
+A. Snoop Dogg
+B. Eminem
+C. 50 Cent
+D. Dr. Dre
+B. Eminem
 405
-A.Sean Kingston
-B.Sean Paul
-C.Usher
-D.Bow Wow
-A.Sean Kingston
+A. Sean Kingston
+B. Sean Paul
+C. Usher
+D. Bow Wow
+A. Sean Kingston
 406
+A. Bahamas
+B. Canada
+C. Barbados
+D. USA
+C. Barbados
 407
+A. Justin Bieber
+B. Alicia Keys
+C. Beyoncé
+D. Rihanna
+B. Alicia Keys
 408
+A. The Eagles
+B. JUNIT
+C. NSYNC
+D. WATTI-B
+C. NSYNC
 409
+A. Kendrick Lamar
+B. Solange
+C. Chance The Rapper
+D. Estelle
+D. Estelle
 410
 411
 412
