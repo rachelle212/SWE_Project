@@ -1,0 +1,50 @@
+101
+A. 1
+B. 4
+C. 5
+D. 3
+C. 5
+102
+A. Melania
+B. Jett's real name
+C. RealJett
+D. Elizabeth
+B. Jett's real name
+103
+A. Zanzibar
+B. Zimbabwe
+C. Zambia
+D. Zaire
+B. Zimbabwe
+104
+A. Oakland CA
+B. Brooklyn NY
+C. Birmingham AL
+D. None of the above
+D. None of the above
+105
+A. Patricia
+B. Mary
+C. Patrice
+D. Adele
+C. Patrice
+106
+A. Fortran
+B. Swyft
+C. Visual Basic
+D. None of the above
+D. None of the above
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120

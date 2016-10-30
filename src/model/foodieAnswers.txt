@@ -1,3 +1,45 @@
 201
-A. cheese
-B. 
+A.Saffron
+B.Nutmeg
+C.Cinnamon
+D.Paprika
+A.Saffron
+202
+A.Squash
+B.Onions
+C.Cabbage
+D.Lettuce
+D.Lettuce
+203
+A.Bacon, lettuce, turnip
+B.Bacon, lettuce, tomato
+C.Bacon, leek, tomato
+D.Beetroot, lettuce, tomato
+B.Bacon, lettuce, tomato
+204
+A.Strawberries
+B.Blackberries
+C.Grapes
+D.Gooseberries
+C.Grapes
+205
+A.
+B.
+C.
+D.
+A.
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
