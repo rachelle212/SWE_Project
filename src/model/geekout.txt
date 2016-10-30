@@ -1,20 +1,28 @@
-101
+301
 What is an atom?
-102
+302
 When was Spelman founded?
-103
+303
 When was Morehouse founded?
-104
-How many languages does Josuel speak?
-105
-What is Jett’s real name?
-106
-Where is Ropa from?
-107
-Where is Elizabeth from?
-108
-What is Michelle’s middle name?
-109
-What is Elizabeth’s favorite programming language?
-110
+304
+What is  the name of the biggest ocean in the world?
+305
+What is the southernmost country in Africa?
+306
+Which movie features the song "I've had the time of my life.."?
+307
+Which of these sorting algorithm uses the concept of a "pivot" element?
+308
+309
+310
 What is the capital of Georgia?
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320

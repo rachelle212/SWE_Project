@@ -1,60 +1,60 @@
-101
+301
 A. Molecules
 B. Protons
 C. Protons & neutrons
 D. None of the above
 D. None of the above
-102
+302
 A. 2001
 B. 2007
 C. 1881
 D. 1880
 C. 1881
-103
+303
 A. 1867
 B. 1850
 C. 2000
 D. 2016
 A. 1867
-104
-A. 1
-B. 4
-C. 5
-D. 3
-C. 5
-105
-A. Melania
-B. Jett's real name
-C. RealJett
-D. Elizabeth
-B. Jett's real name
-106
-A. Zanzibar
-B. Zimbabwe
-C. Zambia
-D. Zaire
-B. Zimbabwe
-107
-A. Oakland CA
-B. Brooklyn NY
-C. Birmingham AL
-D. None of the above
-D. None of the above
-108
-A. Patricia
-B. Mary
-C. Patrice
-D. Adele
-C. Patrice
-109
-A. Fortran
-B. Swyft
-C. Visual Basic
-D. None of the above
-D. None of the above
-110
+304
+A.Pacific Ocean
+B.Indian Ocean
+C.Southern Ocean
+D.Atlantic Ocean
+A.Pacific Ocean
+305
+A.Namibia
+B.South Africa
+C.Egypt
+D.Botswana
+B.
+306
+A.Casablanca
+B.The Italian Job
+C.Dirty Dancing
+D.Mary Poppins
+C.Dirty Dancing
+307
+A.Shell Sort
+B.Bubble Sort
+C.Quicksort
+D.Mergesort
+C
+308
+309
+310
 A. Savannah
 B. Atlanta
 C. Columbus
 D. Athens
 B. Atlanta
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
