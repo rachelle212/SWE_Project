@@ -17,9 +17,9 @@ C. Zambia
 D. Zaire
 B. Zimbabwe
 104
-A. Oakland CA
-B. Brooklyn NY
-C. Birmingham AL
+A. Oakland, CA
+B. Brooklyn, NY
+C. Birmingham, AL
 D. None of the above
 D. None of the above
 105
@@ -30,7 +30,7 @@ D. Adele
 C. Patrice
 106
 A. Fortran
-B. Swyft
+B. Swift
 C. Visual Basic
 D. None of the above
 D. None of the above
