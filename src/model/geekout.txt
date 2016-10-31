@@ -1,8 +1,8 @@
 301
 Who was the first U.S. president to have been born in a hospital?
-302 - REDO
+302 - REDO!! + answer
 When was Spelman founded?
-303 - REDO
+303 - REDO!!
 When was Morehouse founded?
 304
 What is  the name of the biggest ocean in the world?
@@ -16,7 +16,7 @@ Which of these sorting algorithm uses the concept of a "pivot" element?
 When referring to a USB port, what do the letter USB stand for?
 309
 What is the chemical symbol for magnesium on the periodic table?
-310 - REDO
+310 - REDO!! + answer
 What is the capital of Georgia?
 311
 Which celebration is less commonly known as 'the eve of All Saints' Day'?
@@ -33,4 +33,4 @@ What is the name of the main protagonist in the Legend of Zelda?
 317
 318
 319
-320 hi
+320
