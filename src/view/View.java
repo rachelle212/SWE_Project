@@ -69,12 +69,12 @@ public class View extends JFrame implements ActionListener {
 
         } catch (IOException ex) {}
 
-        questionPanel.questionLabel.setText( questionPanel.questionMap.get("101"));
+        questionPanel.questionLabel.setText( questionPanel.questionMap.get("301"));
 
-        questionPanel.ansButton1.setText(questionPanel.answerMap.get("101").get(0));
-        questionPanel.ansButton2.setText(questionPanel.answerMap.get("101").get(1));
-        questionPanel.ansButton3.setText(questionPanel.answerMap.get("101").get(2));
-        questionPanel.ansButton4.setText(questionPanel.answerMap.get("101").get(3));
+        questionPanel.ansButton1.setText(questionPanel.answerMap.get("301").get(0));
+        questionPanel.ansButton2.setText(questionPanel.answerMap.get("301").get(1));
+        questionPanel.ansButton3.setText(questionPanel.answerMap.get("301").get(2));
+        questionPanel.ansButton4.setText(questionPanel.answerMap.get("301").get(3));
 
         System.out.println(questionPanel.answerMap);
 
