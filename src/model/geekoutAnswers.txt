@@ -1,9 +1,9 @@
 301
-A. George Washington
-B. Theodore Roosevelt
-C. John F Kennedy
-D. Jimmy Carter
-D. Jimmy Carter
+A. Molecules
+B. Protons
+C. Protons and Neutrons
+D. None of the above
+D. None of the above
 302
 A. 2001
 B. 2007
@@ -71,10 +71,31 @@ C. 2 hours (London's 9 hours ahead of Sydney)
 D. 0 hours (Same time)
 B. 9 hours (Sydney's 9 hours ahead of London)
 313
+A. Heart
+B. Liver
+C. Skin
+D. Large Intestine
+B. Liver
 314
+A. Pituitary gland
+B. Pancreas
+C. Reproductive glands
+D. Parathyroids
+A. Pituitary gland
 315
+A. 2000
+B. 2004
+C. 2006
+D. 2008
+B. 2004
 316
+A. Zelda
+B. Link
+C. Ganondorf
+D. Navi
+B. Link
 317
+
 318
 319
 320

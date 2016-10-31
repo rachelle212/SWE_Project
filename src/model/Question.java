@@ -8,6 +8,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+/** The Question class is responsible for reading in questions and answers from
+ * each respective category and saving them to a data structure. This class
+ * also retrieves an individual question its answers.
+ */
 public class Question {
 
         int num = 0;
@@ -15,6 +19,7 @@ public class Question {
             this.getQuestion();
         }
 
+/** Gets the current question number during game play */
         public int getCurrentQuestionNumber() {
             if (num > 11){
                 return num = 0;

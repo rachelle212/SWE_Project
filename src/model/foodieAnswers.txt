@@ -11,11 +11,11 @@ C. Cabbage
 D. Lettuce
 D. Lettuce
 203
-A. Bacon, lettuce, turnip
-B. Bacon, lettuce, tomato
-C. Bacon, leek, tomato
-D. Beetroot, lettuce, tomato
-B. Bacon, lettuce, tomato
+A. Bacon, Lettuce, Turnip
+B. Bacon, Lettuce, Tomato
+C. Bacon, Leek, Tomato
+D. Beetroot, Lettuce, Tomato
+B. Bacon, Lettuce, Tomato
 204
 A. Strawberries
 B. Blackberries
@@ -53,13 +53,44 @@ C. That Paige
 D. Spanish Veil
 A. Spaghetti
 210
+A. Thailand
+B. Taiwan
+C. Vietnam
+D. Yemen
+C. Vietnam
 211
+A. Sucre
+B. Bitter
+C. Salty
+D. Umami
+A. Umami
 212
+A. China
+B. Taiwan
+C. The United States
+D. Amsterdam
+C. The United States
 213
+A. Brazil
+B. Buenos Aires
+C. Peru
+D. Argentina
+B. Argentina
 214
+A. Alcohol
+B. Wine
+C. Alkaline Water
+D. Milk
+A. Alcohol
 215
+A. Absinthe
+B. Gin
+C. Rum
+D. Tequila
+D. Tequila
 216
 217
 218
 219
 220
+221
