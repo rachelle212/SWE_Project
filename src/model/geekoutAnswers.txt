@@ -17,31 +17,41 @@ C. 2000
 D. 2016
 A. 1867
 304
-A.Pacific Ocean
-B.Indian Ocean
-C.Southern Ocean
-D.Atlantic Ocean
-A.Pacific Ocean
+A. Pacific Ocean
+B. Indian Ocean
+C. Southern Ocean
+D. Atlantic Ocean
+A. Pacific Ocean
 305
-A.Namibia
-B.South Africa
-C.Egypt
-D.Botswana
+A. Namibia
+B. South Africa
+C. Egypt
+D. Botswana
 B.
 306
-A.Casablanca
-B.The Italian Job
-C.Dirty Dancing
-D.Mary Poppins
-C.Dirty Dancing
+A. Casablanca
+B. The Italian Job
+C. Dirty Dancing
+D. Mary Poppins
+C. Dirty Dancing
 307
-A.Shell Sort
-B.Bubble Sort
-C.Quicksort
-D.Mergesort
-C
+A. Shell Sort
+B. Bubble Sort
+C. Quicksort
+D. Mergesort
+C. Quicksort
 308
+A. Utility Schema Baseband
+B. Unicode Script Bit
+C. Until Something Better
+D. Universal Serial Bus
+D. Universal Serial Bus
 309
+A. mz
+B. gm
+C. mg
+D. ms
+C. mg
 310
 A. Savannah
 B. Atlanta
@@ -49,7 +59,17 @@ C. Columbus
 D. Athens
 B. Atlanta
 311
+A. Halloween
+B. Saint Patrick
+C. Easter
+D. Christmas
+A. Halloween
 312
+A. 5 hours (London's 5 hours ahead of Sydney)
+B. 9 hours (Sydney's 9 hours ahead of London)
+C. 2 hours (London's 9 hours ahead of Sydney)
+D. 0 hours (Same time)
+B. 9 hours (Sydney's 9 hours ahead of London)
 313
 314
 315

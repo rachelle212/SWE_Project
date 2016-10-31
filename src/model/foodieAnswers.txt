@@ -1,37 +1,57 @@
 201
-A.Saffron
-B.Nutmeg
-C.Cinnamon
-D.Paprika
-A.Saffron
+A. Saffron
+B. Nutmeg
+C. Cinnamon
+D. Paprika
+A. Saffron
 202
-A.Squash
-B.Onions
-C.Cabbage
-D.Lettuce
-D.Lettuce
+A. Squash
+B. Onions
+C. Cabbage
+D. Lettuce
+D. Lettuce
 203
-A.Bacon, lettuce, turnip
-B.Bacon, lettuce, tomato
-C.Bacon, leek, tomato
-D.Beetroot, lettuce, tomato
-B.Bacon, lettuce, tomato
+A. Bacon, lettuce, turnip
+B. Bacon, lettuce, tomato
+C. Bacon, leek, tomato
+D. Beetroot, lettuce, tomato
+B. Bacon, lettuce, tomato
 204
-A.Strawberries
-B.Blackberries
-C.Grapes
-D.Gooseberries
-C.Grapes
+A. Strawberries
+B. Blackberries
+C. Grapes
+D. Gooseberries
+C. Grapes
 205
-A.
-B.
-C.
-D.
-A.
+A. Sugar
+B. Maize
+C. Beans
+D. Cotton
+A. Sugar
 206
+A. Aranygaluska
+B. Lady Baltimore
+C. Panettone
+D. Lamington
+C. Panettone
 207
+A. Juice
+B. Cheese
+C. Animals
+D. Adjectives
+B. Cheese
 208
+A. Coffee
+B. Chocolate Milkshake
+C. Tequila
+D. Tea
+D. Tea
 209
+A. Spaghetti
+B. Egypt Sushi
+C. That Paige
+D. Spanish Veil
+A. Spaghetti
 210
 211
 212
