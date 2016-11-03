@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SWEsidework.iml" filepath="$PROJECT_DIR$/SWEsidework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEsidework-Forked.iml" filepath="$PROJECT_DIR$/SWEsidework-Forked.iml" />
     </modules>
   </component>
 </project>
